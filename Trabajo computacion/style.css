@@ -1,0 +1,47 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+}
+header{
+    padding: 50px;
+    text-align: center;
+    background-color:#003153;
+}
+main{
+    background-color: #4169E1;
+}
+.biografia{
+    padding: 50px;
+    display: flex;
+    font-size: 20px;
+    text-align: center;
+}
+#HMperfil{
+    width: 200px;
+    height: 200px;
+}
+.carrera h2{
+    text-align: center;
+    font-size: 30px;
+}
+.carrera p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 15px;
+}
+.influencias h2{
+    text-align: center;
+    font-size: 30px;
+}
+.influencias p{
+    text-align: justify;
+    font-size: 20px;
+    padding: 15px;
+}
+footer{
+    background-color:#003153;
+    text-align: center;
+    font-size: 30px;
+    padding: 30px;
+}
